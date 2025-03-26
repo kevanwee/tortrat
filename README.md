@@ -2,6 +2,8 @@
 
 Tort Rat is a CLI-based Discord chatbot developed as a side project for SMU's LAW105: Law of Torts course. It leverages Retrieval-Augmented Generation (RAG) to answer questions about key tort law cases and concepts. Trained on a curated set of case summaries, Tort Rat can:
 
+![image](https://github.com/user-attachments/assets/81530b40-986b-4595-9b0c-4358f882f1db)
+
 - 📖 Explain legal doctrines and tests;
 - ⚖️ Address basic hypothetical questions; and
 - 🧠 Provide concise answers to enhance legal understanding.
