@@ -18,13 +18,13 @@ pip install pgml-chat
 python -m venv {file_path}
 ```
 
-Clone the `.env` and `ingest` folder from the repository:
+Clone the repository for its `ingest` folder and `.env.example`:
 
 ```sh
 git clone https://github.com/kevanwee/tortrat.git
 ```
 
-Edit the `.env` file and add the OpenAI API key, PostgresML database link, and Discord bot token:
+Copy `.env.example` to `.env` (which Git ignores) and add the OpenAI API key, PostgresML database link, and Discord bot token:
 
 ```sh
 OPENAI_API_KEY=<>
